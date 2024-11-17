@@ -1,0 +1,189 @@
+Illness 1,Illness 2,Illness 3,Illness 4,Illness 5,Need premium flag,combined_illnesses
+Heart disease,High blood pressure,High cholesterol,Diabetes (Type 1),Diabetes (Type 2),Yes,Heart disease High blood pressure High cholesterol Diabetes (Type 1) Diabetes (Type 2)
+Asthma,COPD,Arthritis,Osteoporosis,Depression,Yes,Asthma COPD Arthritis Osteoporosis Depression
+Anxiety disorders,Alzheimer's disease,Parkinson's disease,Stroke,Cancer,Yes,Anxiety disorders Alzheimer's disease Parkinson's disease Stroke Cancer
+Obesity,Hypothyroidism,Hyperthyroidism,Chronic kidney disease,Liver cirrhosis,Yes,Obesity Hypothyroidism Hyperthyroidism Chronic kidney disease Liver cirrhosis
+GERD,IBS,Crohn's disease,Ulcerative colitis,Migraine,Yes,GERD IBS Crohn's disease Ulcerative colitis Migraine
+Epilepsy,Multiple sclerosis,Fibromyalgia,Psoriasis,Eczema,Yes,Epilepsy Multiple sclerosis Fibromyalgia Psoriasis Eczema
+Sleep apnea,High blood pressure,Arthritis,High cholesterol,Obesity,Yes,Sleep apnea High blood pressure Arthritis High cholesterol Obesity
+Hypothyroidism,Hyperthyroidism,GERD,IBS,Migraine,No,Hypothyroidism Hyperthyroidism GERD IBS Migraine
+Heart disease,Stroke,Cancer,Chronic kidney disease,Liver cirrhosis,Yes,Heart disease Stroke Cancer Chronic kidney disease Liver cirrhosis
+Type 2 Diabetes,Asthma,Osteoporosis,Depression,Anxiety disorders,Yes,Type 2 Diabetes Asthma Osteoporosis Depression Anxiety disorders
+Fibromyalgia,Psoriasis,Eczema,High cholesterol,Obesity,No,Fibromyalgia Psoriasis Eczema High cholesterol Obesity
+COPD,Multiple sclerosis,Parkinson's disease,Type 1 Diabetes,Alzheimer's disease,Yes,COPD Multiple sclerosis Parkinson's disease Type 1 Diabetes Alzheimer's disease
+Crohn's disease,Ulcerative colitis,Epilepsy,Sleep apnea,High blood pressure,Yes,Crohn's disease Ulcerative colitis Epilepsy Sleep apnea High blood pressure
+Arthritis,Osteoporosis,Depression,Anxiety disorders,Type 2 Diabetes,Yes,Arthritis Osteoporosis Depression Anxiety disorders Type 2 Diabetes
+GERD,IBS,Migraine,Fibromyalgia,Psoriasis,No,GERD IBS Migraine Fibromyalgia Psoriasis
+Heart disease,High blood pressure,High cholesterol,Obesity,Hypothyroidism,Yes,Heart disease High blood pressure High cholesterol Obesity Hypothyroidism
+Stroke,Cancer,Chronic kidney disease,Liver cirrhosis,COPD,Yes,Stroke Cancer Chronic kidney disease Liver cirrhosis COPD
+Multiple sclerosis,Parkinson's disease,Type 1 Diabetes,Alzheimer's disease,Epilepsy,Yes,Multiple sclerosis Parkinson's disease Type 1 Diabetes Alzheimer's disease Epilepsy
+Asthma,Arthritis,Osteoporosis,Depression,Anxiety disorders,Yes,Asthma Arthritis Osteoporosis Depression Anxiety disorders
+Hyperthyroidism,GERD,IBS,Migraine,Eczema,No,Hyperthyroidism GERD IBS Migraine Eczema
+Acute Leukemia,High blood pressure,Gastritis,Diabetes (Type 2),Rosacea,Yes,Acute Leukemia High blood pressure Gastritis Diabetes (Type 2) Rosacea
+Rheumatoid Arthritis,Inflammatory Bowel Disease,Mild Allergies,Osteoporosis,Varicose Veins,Yes,Rheumatoid Arthritis Inflammatory Bowel Disease Mild Allergies Osteoporosis Varicose Veins
+Anxiety disorders,Ruptured Brain Aneurysm,Parkinson's disease,Stroke,Benign Prostatic Hyperplasia,Yes,Anxiety disorders Ruptured Brain Aneurysm Parkinson's disease Stroke Benign Prostatic Hyperplasia
+Obesity,Systemic Lupus Erythematosus,Moderate COPD,Chronic kidney disease,Gastritis,Yes,Obesity Systemic Lupus Erythematosus Moderate COPD Chronic kidney disease Gastritis
+GERD,Schizophrenia,Crohn's disease,Ulcerative colitis,Migraine,Yes,GERD Schizophrenia Crohn's disease Ulcerative colitis Migraine
+Epilepsy,Multiple sclerosis,Fibromyalgia,Psoriasis,Eczema,Yes,Epilepsy Multiple sclerosis Fibromyalgia Psoriasis Eczema
+Sleep apnea,Severe Burns,Rheumatoid Arthritis,Rosacea,Varicose Veins,Yes,Sleep apnea Severe Burns Rheumatoid Arthritis Rosacea Varicose Veins
+Hypothyroidism,Hyperthyroidism,GERD,Mild Allergies,Benign Prostatic Hyperplasia,No,Hypothyroidism Hyperthyroidism GERD Mild Allergies Benign Prostatic Hyperplasia
+Heart disease,Severe Sepsis,Cancer,Advanced Motor Neuron Disease,Liver cirrhosis,Yes,Heart disease Severe Sepsis Cancer Advanced Motor Neuron Disease Liver cirrhosis
+Type 2 Diabetes,Asthma,Inflammatory Bowel Disease,Depression,Anxiety disorders,Yes,Type 2 Diabetes Asthma Inflammatory Bowel Disease Depression Anxiety disorders
+Fibromyalgia,Psoriasis,Eczema,Gastritis,Mild Allergies,No,Fibromyalgia Psoriasis Eczema Gastritis Mild Allergies
+Acute Leukemia,Ruptured Brain Aneurysm,Severe Burns,Severe Sepsis,Advanced Motor Neuron Disease,Yes,Acute Leukemia Ruptured Brain Aneurysm Severe Burns Severe Sepsis Advanced Motor Neuron Disease
+Rheumatoid Arthritis,Inflammatory Bowel Disease,Systemic Lupus Erythematosus,Moderate COPD,Schizophrenia,Yes,Rheumatoid Arthritis Inflammatory Bowel Disease Systemic Lupus Erythematosus Moderate COPD Schizophrenia
+Arthritis,Osteoporosis,Depression,Anxiety disorders,Type 2 Diabetes,Yes,Arthritis Osteoporosis Depression Anxiety disorders Type 2 Diabetes
+GERD,Rosacea,Migraine,Varicose Veins,Benign Prostatic Hyperplasia,No,GERD Rosacea Migraine Varicose Veins Benign Prostatic Hyperplasia
+Heart disease,High blood pressure,High cholesterol,Obesity,Hypothyroidism,Yes,Heart disease High blood pressure High cholesterol Obesity Hypothyroidism
+Stroke,Cancer,Chronic kidney disease,Liver cirrhosis,COPD,Yes,Stroke Cancer Chronic kidney disease Liver cirrhosis COPD
+Multiple sclerosis,Parkinson's disease,Type 1 Diabetes,Alzheimer's disease,Epilepsy,Yes,Multiple sclerosis Parkinson's disease Type 1 Diabetes Alzheimer's disease Epilepsy
+Asthma,Rheumatoid Arthritis,Osteoporosis,Inflammatory Bowel Disease,Moderate COPD,Yes,Asthma Rheumatoid Arthritis Osteoporosis Inflammatory Bowel Disease Moderate COPD
+Hyperthyroidism,Gastritis,Mild Allergies,Rosacea,Varicose Veins,No,Hyperthyroidism Gastritis Mild Allergies Rosacea Varicose Veins
+Acute Leukemia,Rheumatoid Arthritis,Gastritis,Type 2 Diabetes,Rosacea,Yes,Acute Leukemia Rheumatoid Arthritis Gastritis Type 2 Diabetes Rosacea
+Inflammatory Bowel Disease,Systemic Lupus Erythematosus,Mild Allergies,Osteoporosis,Varicose Veins,Yes,Inflammatory Bowel Disease Systemic Lupus Erythematosus Mild Allergies Osteoporosis Varicose Veins
+Anxiety disorders,Ruptured Brain Aneurysm,Parkinson's disease,Stroke,Benign Prostatic Hyperplasia,Yes,Anxiety disorders Ruptured Brain Aneurysm Parkinson's disease Stroke Benign Prostatic Hyperplasia
+Psoriatic Arthritis,Graves' Disease,Moderate COPD,Chronic kidney disease,GERD,Yes,Psoriatic Arthritis Graves' Disease Moderate COPD Chronic kidney disease GERD
+Schizophrenia,Addison's Disease,Crohn's disease,Ulcerative colitis,Mild Hypertension,Yes,Schizophrenia Addison's Disease Crohn's disease Ulcerative colitis Mild Hypertension
+Epilepsy,Multiple sclerosis,Fibromyalgia,Scleroderma,Eczema,Yes,Epilepsy Multiple sclerosis Fibromyalgia Scleroderma Eczema
+Sleep apnea,Severe Burns,Peripheral Artery Disease,Rosacea,Chronic Liver Disease,Yes,Sleep apnea Severe Burns Peripheral Artery Disease Rosacea Chronic Liver Disease
+Hypothyroidism,Mild Depression,GERD,Mild Allergies,Benign Prostatic Hyperplasia,No,Hypothyroidism Mild Depression GERD Mild Allergies Benign Prostatic Hyperplasia
+Heart disease,Severe Sepsis,Cancer,Advanced Motor Neuron Disease,Moderate Traumatic Brain Injury,Yes,Heart disease Severe Sepsis Cancer Advanced Motor Neuron Disease Moderate Traumatic Brain Injury
+Type 2 Diabetes,Asthma,Inflammatory Bowel Disease,Depression,Anxiety disorders,Yes,Type 2 Diabetes Asthma Inflammatory Bowel Disease Depression Anxiety disorders
+Fibromyalgia,Psoriatic Arthritis,Eczema,Gastritis,Mild Allergies,Yes,Fibromyalgia Psoriatic Arthritis Eczema Gastritis Mild Allergies
+Acute Leukemia,Ruptured Brain Aneurysm,Severe Burns,Severe Sepsis,Advanced Motor Neuron Disease,Yes,Acute Leukemia Ruptured Brain Aneurysm Severe Burns Severe Sepsis Advanced Motor Neuron Disease
+Chronic kidney disease,,,,,Yes,Chronic kidney disease    
+Schizophrenia,Moderate COPD,Fibromyalgia,,,Yes,Schizophrenia Moderate COPD Fibromyalgia  
+Hypothyroidism,Varicose Veins,,,,No,Hypothyroidism Varicose Veins   
+Heart disease,Peripheral Artery Disease,Chronic Liver Disease,Eczema,Benign Prostatic Hyperplasia,Yes,Heart disease Peripheral Artery Disease Chronic Liver Disease Eczema Benign Prostatic Hyperplasia
+Asthma,Depression,,,,Yes,Asthma Depression   
+Severe Sepsis,,,,,Yes,Severe Sepsis    
+Psoriatic Arthritis,Sleep apnea,Mild Hypertension,,,Yes,Psoriatic Arthritis Sleep apnea Mild Hypertension  
+Graves' Disease,Addison's Disease,Scleroderma,,,Yes,Graves' Disease Addison's Disease Scleroderma  
+Cancer,,,,,Yes,Cancer    
+Epilepsy,Gastritis,,,,No,Epilepsy Gastritis   
+Moderate Traumatic Brain Injury,Systemic Lupus Erythematosus,,,,Yes,Moderate Traumatic Brain Injury Systemic Lupus Erythematosus   
+Alzheimer's disease,Parkinson's disease,Type 1 Diabetes,Multiple sclerosis,Ruptured Brain Aneurysm,Yes,Alzheimer's disease Parkinson's disease Type 1 Diabetes Multiple sclerosis Ruptured Brain Aneurysm
+Mild Depression,,,,,No,Mild Depression    
+Advanced Motor Neuron Disease,Severe Burns,,,,Yes,Advanced Motor Neuron Disease Severe Burns   
+Osteoporosis,Anxiety disorders,Type 2 Diabetes,,,Yes,Osteoporosis Anxiety disorders Type 2 Diabetes  
+Crohn's disease,Ulcerative colitis,,,,Yes,Crohn's disease Ulcerative colitis   
+Severe Sepsis,,,,,Yes,Severe Sepsis    
+Type 2 Diabetes,Asthma,,,,Yes,Type 2 Diabetes Asthma   
+Rosacea,Mild Allergies,Varicose Veins,,,No,Rosacea Mild Allergies Varicose Veins  
+Chronic kidney disease,Rheumatoid Arthritis,Inflammatory Bowel Disease,Psoriatic Arthritis,,Yes,Chronic kidney disease Rheumatoid Arthritis Inflammatory Bowel Disease Psoriatic Arthritis 
+Ruptured Brain Aneurysm,,,,,Yes,Ruptured Brain Aneurysm    
+Moderate COPD,Sleep apnea,,,,Yes,Moderate COPD Sleep apnea   
+GERD,Benign Prostatic Hyperplasia,Hypothyroidism,,,No,GERD Benign Prostatic Hyperplasia Hypothyroidism  
+Cancer,Peripheral Artery Disease,Osteoporosis,Anxiety disorders,Eczema,Yes,Cancer Peripheral Artery Disease Osteoporosis Anxiety disorders Eczema
+Schizophrenia,Graves' Disease,,,,Yes,Schizophrenia Graves' Disease   
+Advanced Motor Neuron Disease,,,,,Yes,Advanced Motor Neuron Disease    
+Fibromyalgia,Systemic Lupus Erythematosus,Mild Hypertension,,,Yes,Fibromyalgia Systemic Lupus Erythematosus Mild Hypertension  
+Depression,Epilepsy,Moderate Traumatic Brain Injury,,,Yes,Depression Epilepsy Moderate Traumatic Brain Injury  
+Acute Leukemia,,,,,Yes,Acute Leukemia    
+Crohn's disease,Gastritis,,,,No,Crohn's disease Gastritis   
+Scleroderma,Addison's Disease,,,,Yes,Scleroderma Addison's Disease   
+Stroke,Alzheimer's disease,Parkinson's disease,Heart disease,Multiple sclerosis,Yes,Stroke Alzheimer's disease Parkinson's disease Heart disease Multiple sclerosis
+Mild Depression,Hypothyroidism,,,,No,Mild Depression Hypothyroidism   
+Severe Burns,Type 1 Diabetes,,,,Yes,Severe Burns Type 1 Diabetes   
+Inflammatory Bowel Disease,Psoriatic Arthritis,Chronic Liver Disease,,,Yes,Inflammatory Bowel Disease Psoriatic Arthritis Chronic Liver Disease  
+Ulcerative colitis,Moderate COPD,Fibromyalgia,Peripheral Artery Disease,,Yes,Ulcerative colitis Moderate COPD Fibromyalgia Peripheral Artery Disease 
+Mild Allergies,,,,,No,Mild Allergies    
+Rheumatoid Arthritis,Osteoporosis,,,,Yes,Rheumatoid Arthritis Osteoporosis   
+Cancer,,,,,Yes,Cancer    
+Anxiety disorders,Sleep apnea,GERD,Rosacea,,Yes,Anxiety disorders Sleep apnea GERD Rosacea 
+Ruptured Brain Aneurysm,Severe Sepsis,,,,Yes,Ruptured Brain Aneurysm Severe Sepsis   
+Type 2 Diabetes,Asthma,Depression,Epilepsy,,Yes,Type 2 Diabetes Asthma Depression Epilepsy 
+Varicose Veins,Benign Prostatic Hyperplasia,Mild Hypertension,,,No,Varicose Veins Benign Prostatic Hyperplasia Mild Hypertension  
+Chronic kidney disease,Schizophrenia,,,,Yes,Chronic kidney disease Schizophrenia   
+Graves' Disease,Addison's Disease,Scleroderma,Systemic Lupus Erythematosus,,Yes,Graves' Disease Addison's Disease Scleroderma Systemic Lupus Erythematosus 
+Heart disease,,,,,Yes,Heart disease    
+Multiple sclerosis,,,,,Yes,Multiple sclerosis    
+Moderate COPD,Psoriatic Arthritis,,,,Yes,Moderate COPD Psoriatic Arthritis   
+Mild Hypertension,Eczema,,,,No,Mild Hypertension Eczema   
+Chronic Liver Disease,Inflammatory Bowel Disease,Fibromyalgia,,,Yes,Chronic Liver Disease Inflammatory Bowel Disease Fibromyalgia  
+Acute Leukemia,Osteoporosis,,,,Yes,Acute Leukemia Osteoporosis   
+Schizophrenia,Epilepsy,Sleep apnea,,,Yes,Schizophrenia Epilepsy Sleep apnea  
+Gastritis,Rosacea,Mild Allergies,Hypothyroidism,,No,Gastritis Rosacea Mild Allergies Hypothyroidism 
+Stroke,Type 2 Diabetes,Rheumatoid Arthritis,Anxiety disorders,GERD,Yes,Stroke Type 2 Diabetes Rheumatoid Arthritis Anxiety disorders GERD
+Systemic Lupus Erythematosus,Graves' Disease,,,,Yes,Systemic Lupus Erythematosus Graves' Disease   
+Severe Burns,,,,,Yes,Severe Burns    
+Asthma,Depression,Peripheral Artery Disease,,,Yes,Asthma Depression Peripheral Artery Disease  
+Addison's Disease,Moderate Traumatic Brain Injury,Crohn's disease,,,Yes,Addison's Disease Moderate Traumatic Brain Injury Crohn's disease  
+Heart disease,,,,,Yes,Heart disease    
+Ulcerative colitis,Varicose Veins,,,,No,Ulcerative colitis Varicose Veins   
+Scleroderma,Type 1 Diabetes,,,,Yes,Scleroderma Type 1 Diabetes   
+Cancer,Alzheimer's disease,Parkinson's disease,Chronic kidney disease,Ruptured Brain Aneurysm,Yes,Cancer Alzheimer's disease Parkinson's disease Chronic kidney disease Ruptured Brain Aneurysm
+Benign Prostatic Hyperplasia,,,,,No,Benign Prostatic Hyperplasia    
+Advanced Motor Neuron Disease,Severe Sepsis,,,,Yes,Advanced Motor Neuron Disease Severe Sepsis   
+Inflammatory Bowel Disease,Psoriatic Arthritis,Osteoporosis,,,Yes,Inflammatory Bowel Disease Psoriatic Arthritis Osteoporosis  
+Moderate COPD,Fibromyalgia,Sleep apnea,Anxiety disorders,,Yes,Moderate COPD Fibromyalgia Sleep apnea Anxiety disorders 
+GERD,,,,,No,GERD    
+Rheumatoid Arthritis,Graves' Disease,,,,Yes,Rheumatoid Arthritis Graves' Disease   
+Acute Leukemia,,,,,Yes,Acute Leukemia    
+Type 2 Diabetes,Asthma,Mild Hypertension,Eczema,,Yes,Type 2 Diabetes Asthma Mild Hypertension Eczema 
+Stroke,Chronic Liver Disease,,,,Yes,Stroke Chronic Liver Disease   
+Depression,Epilepsy,Peripheral Artery Disease,,,Yes,Depression Epilepsy Peripheral Artery Disease  
+Mild Allergies,Rosacea,Hypothyroidism,,,No,Mild Allergies Rosacea Hypothyroidism  
+Multiple sclerosis,Schizophrenia,,,,Yes,Multiple sclerosis Schizophrenia   
+Systemic Lupus Erythematosus,Addison's Disease,Scleroderma,Crohn's disease,,Yes,Systemic Lupus Erythematosus Addison's Disease Scleroderma Crohn's disease 
+Severe Burns,Heart disease,,,,Yes,Severe Burns Heart disease   
+Parkinson's disease,,,,,Yes,Parkinson's disease    
+Systemic Lupus Erythematosus,Fibromyalgia,,,,Yes,Systemic Lupus Erythematosus Fibromyalgia   
+Mild Depression,Varicose Veins,Gastritis,,,No,Mild Depression Varicose Veins Gastritis  
+Type 2 Diabetes,Asthma,Osteoporosis,Anxiety disorders,,Yes,Type 2 Diabetes Asthma Osteoporosis Anxiety disorders 
+Severe Sepsis,Rheumatoid Arthritis,,,,Yes,Severe Sepsis Rheumatoid Arthritis   
+Moderate COPD,Psoriatic Arthritis,Sleep apnea,,,Yes,Moderate COPD Psoriatic Arthritis Sleep apnea  
+Hypothyroidism,Benign Prostatic Hyperplasia,Rosacea,,,No,Hypothyroidism Benign Prostatic Hyperplasia Rosacea  
+Cancer,Chronic Liver Disease,Inflammatory Bowel Disease,Epilepsy,Eczema,Yes,Cancer Chronic Liver Disease Inflammatory Bowel Disease Epilepsy Eczema
+Schizophrenia,Addison's Disease,,,,Yes,Schizophrenia Addison's Disease   
+Ruptured Brain Aneurysm,,,,,Yes,Ruptured Brain Aneurysm    
+Depression,Peripheral Artery Disease,Crohn's disease,,,Yes,Depression Peripheral Artery Disease Crohn's disease  
+Graves' Disease,Moderate Traumatic Brain Injury,Ulcerative colitis,,,Yes,Graves' Disease Moderate Traumatic Brain Injury Ulcerative colitis  
+Heart disease,,,,,Yes,Heart disease    
+GERD,Mild Allergies,,,,No,GERD Mild Allergies   
+Scleroderma,Type 1 Diabetes,,,,Yes,Scleroderma Type 1 Diabetes   
+Stroke,Alzheimer's disease,Multiple sclerosis,Chronic kidney disease,Acute Leukemia,Yes,Stroke Alzheimer's disease Multiple sclerosis Chronic kidney disease Acute Leukemia
+Mild Hypertension,,,,,No,Mild Hypertension    
+Advanced Motor Neuron Disease,Osteoporosis,,,,Yes,Advanced Motor Neuron Disease Osteoporosis   
+Inflammatory Bowel Disease,Psoriatic Arthritis,Fibromyalgia,,,Yes,Inflammatory Bowel Disease Psoriatic Arthritis Fibromyalgia  
+Moderate COPD,Anxiety disorders,Sleep apnea,Type 2 Diabetes,,Yes,Moderate COPD Anxiety disorders Sleep apnea Type 2 Diabetes 
+Rosacea,,,,,No,Rosacea    
+Rheumatoid Arthritis,Asthma,,,,Yes,Rheumatoid Arthritis Asthma   
+Severe Burns,,,,,Yes,Severe Burns    
+Peripheral Artery Disease,Epilepsy,Hypothyroidism,Gastritis,,Yes,Peripheral Artery Disease Epilepsy Hypothyroidism Gastritis 
+Chronic Liver Disease,Schizophrenia,,,,Yes,Chronic Liver Disease Schizophrenia   
+Depression,Graves' Disease,Addison's Disease,,,Yes,Depression Graves' Disease Addison's Disease  
+Varicose Veins,Benign Prostatic Hyperplasia,Mild Depression,,,No,Varicose Veins Benign Prostatic Hyperplasia Mild Depression  
+Parkinson's disease,Systemic Lupus Erythematosus,,,,Yes,Parkinson's disease Systemic Lupus Erythematosus   
+Crohn's disease,Ulcerative colitis,Scleroderma,Moderate Traumatic Brain Injury,,Yes,Crohn's disease Ulcerative colitis Scleroderma Moderate Traumatic Brain Injury 
+Cancer,Severe Sepsis,,,,Yes,Cancer Severe Sepsis   
+Chronic kidney disease,,,,,Yes,Chronic kidney disease    
+Rheumatoid Arthritis,Moderate COPD,,,,Yes,Rheumatoid Arthritis Moderate COPD   
+Eczema,Mild Allergies,,,,No,Eczema Mild Allergies   
+Type 2 Diabetes,Asthma,Fibromyalgia,Sleep apnea,,Yes,Type 2 Diabetes Asthma Fibromyalgia Sleep apnea 
+Acute Leukemia,Peripheral Artery Disease,,,,Yes,Acute Leukemia Peripheral Artery Disease   
+Schizophrenia,Inflammatory Bowel Disease,Psoriatic Arthritis,,,Yes,Schizophrenia Inflammatory Bowel Disease Psoriatic Arthritis  
+GERD,Rosacea,Varicose Veins,,,No,GERD Rosacea Varicose Veins  
+Stroke,Alzheimer's disease,Osteoporosis,Anxiety disorders,Hypothyroidism,Yes,Stroke Alzheimer's disease Osteoporosis Anxiety disorders Hypothyroidism
+Graves' Disease,Addison's Disease,,,,Yes,Graves' Disease Addison's Disease   
+Severe Burns,,,,,Yes,Severe Burns    
+Depression,Epilepsy,Systemic Lupus Erythematosus,,,Yes,Depression Epilepsy Systemic Lupus Erythematosus  
+Moderate Traumatic Brain Injury,Crohn's disease,Ulcerative colitis,,,Yes,Moderate Traumatic Brain Injury Crohn's disease Ulcerative colitis  
+Multiple sclerosis,,,,,Yes,Multiple sclerosis    
+Gastritis,Benign Prostatic Hyperplasia,,,,No,Gastritis Benign Prostatic Hyperplasia   
+Scleroderma,Chronic Liver Disease,,,,Yes,Scleroderma Chronic Liver Disease   
+Cancer,Heart disease,Parkinson's disease,Ruptured Brain Aneurysm,Severe Sepsis,Yes,Cancer Heart disease Parkinson's disease Ruptured Brain Aneurysm Severe Sepsis
+Mild Hypertension,,,,,No,Mild Hypertension    
+Advanced Motor Neuron Disease,Type 1 Diabetes,,,,Yes,Advanced Motor Neuron Disease Type 1 Diabetes   
+Psoriatic Arthritis,Fibromyalgia,Osteoporosis,,,Yes,Psoriatic Arthritis Fibromyalgia Osteoporosis  
+Moderate COPD,Anxiety disorders,Asthma,Depression,,Yes,Moderate COPD Anxiety disorders Asthma Depression 
+Mild Depression,,,,,No,Mild Depression    
+Rheumatoid Arthritis,Inflammatory Bowel Disease,,,,Yes,Rheumatoid Arthritis Inflammatory Bowel Disease   
+Chronic kidney disease,,,,,Yes,Chronic kidney disease    
+Peripheral Artery Disease,Sleep apnea,Hypothyroidism,Eczema,,Yes,Peripheral Artery Disease Sleep apnea Hypothyroidism Eczema 
+Stroke,Schizophrenia,,,,Yes,Stroke Schizophrenia   
+Type 2 Diabetes,Graves' Disease,Addison's Disease,,,Yes,Type 2 Diabetes Graves' Disease Addison's Disease  
+Rosacea,Varicose Veins,GERD,,,No,Rosacea Varicose Veins GERD  
+Acute Leukemia,Systemic Lupus Erythematosus,,,,Yes,Acute Leukemia Systemic Lupus Erythematosus   
+Crohn's disease,Ulcerative colitis,Scleroderma,Moderate Traumatic Brain Injury,,Yes,Crohn's disease Ulcerative colitis Scleroderma Moderate Traumatic Brain Injury 
+Heart disease,Severe Burns,,,,Yes,Heart disease Severe Burns   
